@@ -79,5 +79,6 @@ A retail dashboard deep-dive identifying seasonal trends, organizational logisti
 *   **Tools:** Power BI Desktop, Power Query, DAX
 *   **Analytical Frameworks:** Cohort Segmentation, Time-Series Analysis, Financial KPI Auditing, Pareto-Style Mix Testing
 
-![XYZ Group Dashboard Preview](XYZ_Group_Dashboard.png)
-![Super Store Dashboard Preview](Super_Store_Dashboard.png)
+<img src="xyz dashboard.png" width="800">
+<img src="superstore dash.png" width="800">
+
