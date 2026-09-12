@@ -1,10 +1,6 @@
 <img width="1322" height="743" alt="Screenshot 2026-09-12 110415" src="https://github.com/user-attachments/assets/d901cf05-9eeb-4e46-91c2-72e61bedc413" /># projects-1
 my sql and power bi projects 
-# Healthcare & Retail Data Analytics Portfolio: SQL + Power BI 📊💼
 
-Welcome to my data analytics portfolio! This repository demonstrates my full-stack capabilities in data manipulation, advanced querying, and dashboard design. I leverage **Advanced SQL** for backend extraction, data cleaning, and complex business logic, paired with **Power BI** for visual storytelling.
-
----
 
 ## 💻 SQL Case Study: Hospital & Pharmaceutical Sales Analysis
 **File:** `sql project....sql`
