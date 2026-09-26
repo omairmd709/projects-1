@@ -79,6 +79,7 @@ A deep dive into digital wallet transaction metrics, user behavior, and regional
   <img src="xiaomi.jpeg" width="30%" alt="Xiaomi Dashboard" />
   <img src="Screenshot%202026-09-12%20110415.png" width="30%" alt="System Screenshot" />
   <img src="pharma company dashboard.png" width="30%" alt="Pharma company dashboard" />
+ <img src="BM SQUIB dashboard.png" width="30%" alt="BM SQUIB dashboard" />
 </p>
 
 
